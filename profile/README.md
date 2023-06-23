@@ -38,4 +38,4 @@ We are dedicated to providing exceptional service and value your feedback. If yo
 
 Thank you for being a part of the IumProject Sales Team! Let's work together to deliver outstanding services to our customers.
 
-![Banner](/banner.png)
+![Banner](/profile/banner.png)
